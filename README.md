@@ -22,13 +22,6 @@
 
 <p align="center">I have a strong foundation in both frontend and backend development, and I enjoy creating responsive user interfaces with React.js while building robust and scalable APIs with Node.js. My expertise extends to using TypeScript for type-safe development and databases like MongoDB and PostgreSQL, often with Prisma as my ORM of choice.</p>
 
-<h3 align="center">Connect with me:</h3>
-
-<div align="center">
-  <!-- Replace the following GIF URL with your preferred social media or contact image -->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-
 <h3 align="center">GitHub Stats:</h3>
 
 <div align="center">  
